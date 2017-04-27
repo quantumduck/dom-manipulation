@@ -19,4 +19,5 @@ $(document).ready(function() {
   }
 
   window.setTimeout(changeColor, 100);
+
 });
